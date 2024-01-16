@@ -15,5 +15,4 @@ A pedestrian detector is a computer vision system that utilizes various algorith
 
 ## Input AND Output:
 
-![Street_images1](https://github.com/rupeshpatro2001/Pedestrian-Detector/assets/114897846/a6e93534-1de7-49ab-a9a8-7d5b0a2cecea)            
-<img width="376" alt="Output_Street_Images1" src="https://github.com/rupeshpatro2001/Pedestrian-Detector/assets/114897846/08c30348-8523-4f10-90c4-8331543b3b85">
+![Street_images1](https://github.com/rupeshpatro2001/Pedestrian-Detector/assets/114897846/a6e93534-1de7-49ab-a9a8-7d5b0a2cecea)                   <img width="376" alt="Output_Street_Images1" src="https://github.com/rupeshpatro2001/Pedestrian-Detector/assets/114897846/08c30348-8523-4f10-90c4-8331543b3b85">
